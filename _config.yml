@@ -14,5 +14,11 @@ navigation:
 
 remote_theme: niklasbuschmann/contrast
 
+remote_theme: niklasbuschmann/contrast
+
+plugins:
+ - jekyll-feed
+
+
 plugins:
  - jekyll-feed
