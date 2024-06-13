@@ -1,5 +1,5 @@
-title: "Niklas Buschmann"
-author: "Niklas Buschmann"
+title: "VapeCorner"
+author: "Ken3ie"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,8 +8,8 @@ show_excerpts: false
 show_frame: true
 
 navigation:
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/"}
+  - {title: Mail, icon: envelope, url: "mailto:kenziebushell@vapecorner.uk"}
+  - {title: Github, icon: github, url: "https://github.com/Ken3ie/"}
   - {title: Feed, icon: rss, url: "/feed.xml"}
 
 remote_theme: niklasbuschmann/contrast
